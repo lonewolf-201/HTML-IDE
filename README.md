@@ -1,2 +1,2 @@
-# scripts_and_misc
-Python, HTML and BAT scripts and other development projects
+# HTML IDE
+Access it from Chrome and look at your html code get rendered in realtime as you type.
